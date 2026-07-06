@@ -1,0 +1,31 @@
+{
+  "name": "e-shopping",
+  "version": "1.0.0",
+  "description": "API para o e-commerce e-shopping",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrovieira55/e-shopping.git"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "shopping"
+  ],
+  "author": "Pedro Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrovieira55/e-shopping/issues"
+  },
+  "homepage": "https://github.com/pedrovieira55/e-shopping#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
